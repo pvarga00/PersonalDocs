@@ -1,0 +1,56 @@
+# AppSpider: WebAPI Scan using PING Authentication
+
+- Save a copy of your API swagger documentation in JSON format. If you do not have a swagger doc you will need to add all the routes manually.
+  - OpenAPI contract
+    - You will need to edit the list of servers in your open api contract
+    - Remove all the servers except for the one you want to scan against. In this example we will be running against the beta. So remove all entries except for beta environment
+    - ![](https://git.rockfin.com/pvarga/PersonalDocs/blob/master/AppSpider/images/AppSpider-WebScan1.png)
+    - Save a copy of the contract with beta server only 
+    - ![](https://git.rockfin.com/pvarga/PersonalDocs/blob/master/AppSpider/images/AppSpider-WebScan2.png)
+  - Swagger Contract
+    - You will have to update host and schemes
+    - ![](https://git.rockfin.com/pvarga/PersonalDocs/blob/master/AppSpider/images/AppSpider-WebScan3.png)
+    - Save a copy of the contract with beta server info only
+- Follow this [LINK](https://git.rockfin.com/pages/QAPOW/cqrunbook/quality-gates/security-tests/appspiderSetup/) for documentation on how to set up your application’s AppSpider security scanning configuration
+- Click on the "Attacks" tab from the left navigation menu
+  - Select All Attacks from the Predefined Policies drop down menu 
+- Click on the "Authentication" tab from the left navigation menu
+  - Ensure it is set to none
+- Click on the "Proxy" tab from the left navigation menu
+  - Ensure no proxy is selected 
+- Click on "HTTP Headers" from the left navigation menu
+  - Configure or add any additional headers required for your api
+- Click on the "Web Services"
+  - Click Add File Next Swagger List
+  - Upload the modified copy of swagger documentation
+- Click on "Advanced" Option from the left navigation menu
+  - Locate the "AuthConfig" option
+    - Select the Option for "OAuth"
+    - Select the Checkbox to enable OAuth Authentication
+    - ![](https://git.rockfin.com/pvarga/PersonalDocs/blob/master/AppSpider/images/AppSpider-WebScan4.png)
+- Locate the "ResponseBodyTokenRegex" option
+  - Add the following code to it {“access_token”:”(.)”}
+- Locate the "HTTPHeaderWithTokenReplacement" option
+  - Add the following code to it Authorization:Bearer @token@
+  - ![](https://git.rockfin.com/pvarga/PersonalDocs/blob/master/AppSpider/images/AppSpider-WebScan5.png)
+- Locate the "OAuthConfig" option
+  - Locate the "ResourceServerURL" option
+    - Add the url for your api. 
+  - Locate the "AuthorizationServerUrl" option
+    - Add the Auth Server Url along with the audience as a string parameter. If you have client scope and grant type as parameters remove them from the url and save them for later steps.
+      - The auth url for test env: https://api.test.auth-np.foc.zone/
+      - The auth url for beta env: https://api.beta.auth-np.foc.zone/
+    - Add the Audience parameter to the auth url
+      - If you API requires audience parameter do not forget to add the query string parameter. Check the example below
+    - ** Do not add Grant_type to the auth url. As this will be set later.
+  - Locate the "ClientScope" option
+    - Add the scopes for your API. You can add multiple scopes in the field separated by a whitespace
+  - Locate the "Username" option
+    - Add username to request the token
+  - Locate the "Password" option
+    - Add password to request the token
+  - Locate the "AuthorizationGrantType" option
+    - From the drop down menu select ClientCredentials
+    - ![](https://git.rockfin.com/pvarga/PersonalDocs/blob/master/AppSpider/images/AppSpider-WebScan6.png)
+- Save the configuration
+- Run the configuration

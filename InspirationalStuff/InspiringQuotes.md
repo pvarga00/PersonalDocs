@@ -1,0 +1,107 @@
+# This doc is gathering inspirational materials/quotes
+
+## Get Inspired!
+- “Never doubt that a small group of thoughtful, committed citizens can change the world: indeed, it's the only thing that ever has.” -Margaret Mead, anthropologist, recipient of the Planetary Citizen of the Year Award in 1978
+- "Ability may get you to the top, but it takes character to keep you there." - Stevie Wonder (Born on May 13, 1950)
+- "It is a curious fact that people are never so trivial as when they take themselves seriously." - Oscar Wilde.
+- “Look back to learn from mistakes, look forward to lead with courage, and look within yourself to always do what’s right.” - Unknown (Tyler Underwood?)
+- "For last year's words belong to last year's language, and next year's words await another voice. And to make an end is to make a beginning." - T.S. Eliot.
+- People rarely succeed at anything, unless they have fun doing it.
+- Do all things with love - Og Mandino
+- I am only one; but still I am one. I cannot do everything, but still I can do something. I will not refuse to do the something I can do. - Helen Keller
+- The first step towards getting somewhere is to decide you’re not going to stay where you are. - John Pierpont Morgan
+- “The road to success is always under construction.” - Lily Tomlin
+- The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor - Vincent Lombardy
+- It is a funny thing about life; if you refuse to except anything but the best, you very often get it - Somerset Maugham
+- Small opportunities are often the beginning of great enterprises - Demosthenes
+- All things are difficult before they are easy - John Norley
+- the best executive is the one who has since enough to pick good people to do what needs to be done and self-restraint enough to keep from meddling with them while they do it
+- our chief want in life is somebody who will make us do what we can Ralph Waldo Emerson
+- the speed of the leader determines the rate of the pack
+- adversity reveals genius prosperity conceals it
+- the price of greatness is responsibility - Winston Churchill
+- remember no one can make you feel inferior without your consent - Eleanor Roosevelt
+- destiny is not a matter of chance it is a matter of choice
+- people forget how fast you did a job but they remember how well you did it - Howard W Newton
+- the reward of the thing well done is to have done it - Ralph Waldo Emerson
+- the future belongs to those who believe in the beauty of their dreams - Eleanor Roosevelt
+- happiness lies in the joy of achievement and the thrill of created after Franklin Roosevelt
+- There is one thing stronger than all the armies in the world and that is an idea whose time has come - Victor Hugo
+- except the challenges so that you may feel the exhilaration of victory - General George S Patton
+- do not follow where the path may lead go instead where there is no path and leave a trail
+- geniuses is 1% inspiration and 99% perspiration - Thomas Alva Edison
+- Think wrongly, if you please, but in all cases thing for yourself - Doris Leasing
+- I don't know how I'm going to win, I just know that I'm not going to lose - Gokham Saki
+- Be miserable. Or motivate yourself. Whatever has to be done, it’s always your choice. - Wayne Dyer
+- “It’s ok to lose to opponent. It’s never okay to lose to fear" - Mr. Miyagi
+- "Your attitude, not your aptitude, will determine your altitude." - Zig Ziglar.
+- "Failures are divided into 2 classes: those who thought and never did, and those who did, and never thought" -- John Charles Salak
+- "Our lives begin and end the day we become silent about things that matter" - Martin Luther King Junior
+- "When you're not practicing, someone else is getting better." - Allen Iverson.
+- "To avoid criticism, say nothing, do nothing, be nothing" - Aristotle.
+- “We are sure to get opportunities as we show ourselves capable of being trusted.” - Roy L. Smith.
+- “Go as far as you can see; when you get there, you’ll be able to see further.” - Thomas Carlyle.
+- "When you get the jobs that you have been so brilliantly trained for, just remember that your real job is that if you are free, you need to free someone else. If you have some power, then your job is to empower somebody else." - Toni Morrison
+- "The harder I work, the luckier I get." - Samuel Goldwyn.
+- "Yesterday is not ours to recover, but tomorrow is ours to win or lose." - Lyndon B. Johnson.
+- “If your actions create a legacy that inspires others to dream more, learn more, do more, and become more, then you are an excellent leader.” - Dolly Parton. 
+- “Hold on to your dreams of a better life and stay committed to striving to realize it.” - Earl G. Graves, Sr.
+- “Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.” - Booker T. Washington.
+- “Hate is too great a burden to bear. It injures the hater more than it injures the hated.” - Coretta Scott King.
+- "It always seems impossible until it's done." - Nelson Mandela.
+- "Save your rejections so that later when you are famous, you can show them to people and laugh." - Meg Cabot.
+- "Arguing with a fool proves there are two." - Doris M. Smith.
+- “The road to success is always under construction.” - Lily Tomlin.
+- “Hope smiles from the threshold of the year to come, whispering, ‘it will be happier.”  - Alfred Lord Tennyson.
+- “Life can only be understood backward, but it must be lived forwards.”- Søren Kierkegaard.
+- "For last year's words belong to last year's language, and next year's words await another voice. And to make an end is to make a beginning."- T.S. Eliot.
+- The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails. - William Arthur Ward.
+- "Success seems to be largely a matter of hanging on after others have let go." - William Feather.
+- “Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny.” - Lao Tzu.
+- "The way to get started is to quit talking and begin doing." - Walt Disney
+- The thankful heart opens our eyes to a multitude of blessings that continually surround us. - James E. Faust.
+- “A little nonsense now and then is relished by the wisest men.” - Willy Wonka.
+- "It's not because things are difficult that we do not dare, it's because we do not dare that things are difficult"- Seneca.
+- "I don't focus on what I'm up against. I focus on my goals, and I try to ignore the rest." - Venus Williams.
+- “To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” - Ralph Waldo Emerson.
+- "You will never find time for anything. You must make it." - Charles Buxton.
+- Don’t ever be ashamed of loving the strange things that make your weird little heart happy. - Elizabeth Gilbert.
+- "You'll never find a better sparring partner than adversity." - Golda Meir.
+- "Experience is not what happens to you; it's what you do with what happens to you."- Aldous Huxley.
+- "The purpose of art is washing the dust of daily life off our souls."- Pablo Picasso.
+- “There will always be someone who can't see your worth. Don't let it be you” - Mel Robbins
+- "Little minds are tamed and subdued by misfortune, but great minds rise above it." -Washington Irving
+- "He who stops being better stops being good." -Oliver Cromwell.
+- "Nobody in life gets exactly what they thought they were going to get. But if you work really hard and you’re kind, amazing things will happen." - Conan O'Brien.
+- "Even if we don't have the power to choose where we come from, we can still choose where we go from there." - Stephen Chbosky.
+- “People who say it cannot be done should not interrupt those who are doing it.” - George Bernard Shaw.
+- "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained." - Marie Curie.
+- “You are allowed to let go of all those that do not set you free anymore.” - Dhiman.
+- "I will either find a way or make one” - Hannibal Barca.
+- "Life's like a movie; write your own ending. Keep believing, keep pretending." - Jim Henson.
+- “Being like everybody is the same as being nobody.” - Rod Serling.
+- “Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.” - C.S. Lewis.
+-  "Laughter is an instant vacation."-Milton Berle.
+-  "Wisdom equals knowledge plus courage. You have to not only know what to do and when to do it, but you also have to be brave enough to follow through." - Jarod Kintz.
+-  "There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed." - Ray Goforth.
+-  "Yesterday ended last night. Today is a brand-new day." - Zig Ziglar.
+-  "Success is not final; failure is not fatal: It is the courage to continue that counts." - Winston Churchill.
+-  "You may have to fight a battle more than once to win it." - Margaret Thatcher.
+-  "You can, you should, and if you're brave enough to start, you will." - Stephen King.
+-  “You may not think you’re going to make it. You may want to quit. But if you keep your eye on the ball, you can accomplish anything.” - Hank Aaron.
+-  “We are sure to get opportunities as we show ourselves capable of being trusted.” - Roy L. Smith.
+-  “Go as far as you can see; when you get there, you’ll be able to see further.” - Thomas Carlyle.
+-  "The harder I work, the luckier I get." - Samuel Goldwyn.
+-  "Yesterday is not ours to recover, but tomorrow is ours to win or lose." - Lyndon B. Johnson.
+-  “If your actions create a legacy that inspires others to dream more, learn more, do more, and become more, then you are an excellent leader.” - Dolly Parton. 
+-  “Hold on to your dreams of a better life and stay committed to striving to realize it.” - Earl G. Graves, Sr.
+-  “Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.” - Booker T. Washington.
+-  “Hate is too great a burden to bear. It injures the hater more than it injures the hated.” - Coretta Scott King.
+-  "It always seems impossible until it's done." - Nelson Mandela.\
+-  "Save your rejections so that later when you are famous, you can show them to people and laugh." - Meg Cabot.
+-  "Arguing with a fool proves there are two." - Doris M. Smith.
+-  “The road to success is always under construction.” - Lily Tomlin.
+-  “Hope smiles from the threshold of the year to come, whispering, ‘it will be happier.” - Alfred Lord Tennyson.
+-  “Life can only be understood backward, but it must be lived forwards.” - Søren Kierkegaard.
+-  "Never see failure as failure. Failure is a learning experience, but more importantly, failure is an opportunity to perfect my sense of humor." - Stephen Luigi Piazza
+-  "If everything is important, then nothing is." ― Patrick Lencioni.

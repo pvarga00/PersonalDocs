@@ -1,0 +1,60 @@
+
+This space is dedicated to tracking "Integration Test Status" & who has the conn for each Application's Integration Testing:
+
+You can also view the "[Test Plan](https://tfs.rockfin.com/QL/IT/OrchestrationServices/_testManagement?_a=charts&amp;Length=2&amp;planId=1438378&amp;suiteId=1438379)" within TFS ([IT/Orchestration Services](https://tfs.rockfin.com/QL/IT/OrchestrationServices/_testManagement?_a=tests&amp;Length=2&amp;planId=1438378&amp;suiteId=1438379))
+
+
+| <br> | Application | Internal API Tests<br><br>(#Pass / #Total)<br> | Dependency API Tests<br><br>(#Pass / #Total)<br> | Code Repo | Conn |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Enrichment Action - Property Data | 3/3 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EA](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EA) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 2 | Enrichment Data Integration Svc - Property Data | 4/4 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 3 | Enrichment Action - Loan Data | 4/4 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EA](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EA) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 4 | Enrichment Data Integration Svc - Loan Data | 3/3 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 5 | Enrichment Action - Credit Data | 2/2 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EA](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EA) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 6 | Enrichment Data Integration Svc - Credit Data | <br> | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 7 | Enrichment Evaluator API | 15/15 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.EDIS) | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> |
+| 8 | HIM API | 5/5 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.HIMAPI](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.HIMAPI) | Henosis |
+| 9 | LOD API | 7/7 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.LOD.LODAPI](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.LOD.LODAPI) | Henosis |
+| 10 | Conversations API | 51/51 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ConversationsAPI](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ConversationsAPI) | Henosis |
+| 11 | LOD Composer API | 3/3 | 2/4 | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.LOD.LODComposer](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.LOD.LODComposer) | Henosis |
+| 12 | Content API | 11/11 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI) | Henosis |
+| 13 | EnrichmentEngine-Core - EventInflow | 2/2 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)EC.EventInflow | <br><ac:link><ri:user ri:userkey="8a8903604cb05139014d31534c3202cf"></ri:user></ac:link><br> |
+| 14 | EnrichmentEngine-Core - StateManager | 19/35 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)EC.StateManager | <br><ac:link><ri:user ri:userkey="8a8903604cb05139014d31534c3202cf"></ri:user></ac:link><br> |
+| 15 | LOD-Einstein-Wrapper | 12/12 | <br> | [https://git.rockfin.com/LiftOff/LiftOffTests/](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)[tree/master/](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)[LiftOff.Tests.](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)LOD.Einstein<br> | <br><ac:link><ri:user ri:userkey="8a8903604cb05139014d31534c3202cf"></ri:user></ac:link><br> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| <br> | App | Teams | Dependencies | Quality Advocate / SME | Tech Stack:<br>Framework / Tooling | Integration Test location | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Income Qualifier Service (back-end service)<br>[http://shorty/veritasiq](http://shorty/veritasiq) | Team Veritas | <br> | <br><ac:link><ri:user ri:userkey="ff80808149cea7df0149d30f11f50007"></ri:user></ac:link><br> | .NET Core/Docker | [https://git.rockfin.com/qualityengineering/IQPassiveTestSuite/](https://git.rockfin.com/qualityengineering/IQPassiveTestSuite/)<br> | Incomes Types:<br><ul><li>Passive = Done</li><li>Employment = In-Progress</li><li>Self-Employment = TBD</li><li>WVOE = TBD</li><li>WorkNumber = TBD</li></ul> |
+| 2 | Property Qualifier Service (back-end service)<br><br>[http://shorty/veritaspq](http://shorty/veritaspq)<br> | Team Veritas | <br> | <br><ac:link><ri:user ri:userkey="ff80808149cea7df0149d30f11f50007"></ri:user></ac:link><br> | .NET Core/Docker | TBD | <br> |
+| 3 | Assets Qualifier Service (back-end service)<br><br>[http://shorty/veritasaq](http://shorty/veritasaq)<br> | Team Veritas | <br> | <br><ac:link><ri:user ri:userkey="ff80808149cea7df0149d30f11f50007"></ri:user></ac:link><br> | .NET Core/Docker | TBD | <br> |
+| 4 | Credit Qualifier Service (back-end service)<br><br>[http://shorty/veritascq](http://shorty/veritascq)<br> | Team Veritas | <br> | <br><ac:link><ri:user ri:userkey="ff80808149cea7df0149d30f11f50007"></ri:user></ac:link><br> | .NET Core/Docker | TBD | <br> |
+| 5 | Property:<br><br>Orchestrating API calls from ProcEng (Camunda) to the API endpoints<br> | Team Flux Capacitor<br> | <br> | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> | Java | TBD<br><br>Unit test: Local machines only<br><br>Integration: TBD<br><br>Perf/Load: N/A<br><br>Code Base: ProcEng<br> | Trying to improve code coverage<br><br>Still learning Postman & Mountebank / and how to test code (integration)<br> |
+| 6 | Assets:<br><br>Orchestrating API calls from ProcEng (Camunda) to the API endpoints<br> | Team Flux Capacitor | <br> | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> | Java | TBD<br><br>Unit test: Local machines only<br><br>Integration: TBD<br><br>Perf/Load: N/A<br><br>Code Base: ProcEng<br> | Trying to improve code coverage<br><br>Still learning Postman & Mountebank / and how to test code (integration)<br> |
+| 7 | Credit:<br><br>Orchestrating API calls from ProcEng (Camunda) to the API endpoints<br> | Team Flux Capacitor | <br> | <br><ac:link><ri:user ri:userkey="8a89036064df0bc50164f038585e0002"></ri:user></ac:link><br> | Java | TBD<br><br>Unit test: Local machines only<br><br>Integration: TBD<br><br>Perf/Load: N/A<br><br>Code Base: ProcEng<br> | Trying to improve code coverage<br><br>Still learning Postman & Mountebank / and how to test code (integration)<br> |
+| 8 | Income Types:<br><br>Orchestrating API calls from ProcEng (Camunda) to the API endpoints<br> | Team Impulse<br><br><br> | Line 1 | <br><ac:link><ri:user ri:userkey="ff8080814a03762b014a0716cac10006"></ri:user></ac:link>, <ac:link><ri:user ri:userkey="ff8080814973405c014985e1f2ab0019"></ri:user></ac:link><br> | Java | TBD<br><ul><li>Pension Income Type (unit, integ, perf/load, etc.)</li><li>Disability Income Type<span> (unit, integ, perf/load, etc.)</span></li><li>ULAD DB</li><li>Integrating with Income Qualifier Svc (back-end)</li></ul> | Wanting to test for income type(s) with call to IQ included<br> |
+| 9 | Co-Pilot BFF | Detroit Labs | <br> | <br><ac:link><ri:user ri:userkey="8a890360638838d6016422d377590058"></ri:user></ac:link>, Ed Goff, <ac:link><ri:user ri:userkey="ff8080814906e07101491ec208670015"></ri:user></ac:link><br> | Scala (Tests in Java) | Unit: TBD<br><br>Integ: TBD : Katalon<br><br>API: TBD: Java REST Assured<br> | <br> |
+| 10 | Co-Pilot (Web / Mobile) | Detroit Labs | <br> | <br>Ed Goff, <ac:link><ri:user ri:userkey="8a890360638838d6016422d377590058"></ri:user></ac:link>, <ac:link><ri:user ri:userkey="8a8903605d1611dd015d30b404fc001a"></ri:user></ac:link>, <ac:link><ri:user ri:userkey="ff8080814906e07101491ec208670015"></ri:user></ac:link><br> | React (Tests in Java) | UI & E2E: [https://git.rockfin.com/LiftOff/LiftOff-E2ETesting](https://git.rockfin.com/LiftOff/LiftOff-E2ETesting)<br><br>Unit: TBD<br><br>Integ: TBD : Katalon<br> | <br> |
+| 11 | LOD-Einstein-Wrapper | Team Brain<br><br>Team Hybrid<br> | <br> | <br><ac:link><ri:user ri:userkey="8a8903604cb05139014d31534c3202cf"></ri:user></ac:link><br> | .NET Core | [https://git.rockfin.com/LiftOff/LiftOffTests/](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)[tree/master/](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)[LiftOff.Tests.](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)LOD.Einstein<br><br><br> | <ac:link><ri:page ri:space-key="TH2Archive" ri:content-title="LOD Einstein Wrapper Endpoints"></ri:page></ac:link><br> |
+| 12 | Conversations API | Team Brain | <br> | <br><ac:link><ri:user ri:userkey="8a890360638838d6016422d377590058"></ri:user></ac:link> (SME), <ac:link><ri:user ri:userkey="ff8080814906e07101491ec208670015"></ri:user></ac:link><br> | .Net Core | [https://git.rockfin.com/LiftOff/conversations-api](https://git.rockfin.com/LiftOff/conversations-api "https://git.rockfin.com/LiftOff/conversations-api") | <br> |
+| 13 | Content API | Team Brain | <br> | <br><ac:link><ri:user ri:userkey="8a890360638838d6016422d377590058"></ri:user></ac:link> (SME), <ac:link><ri:user ri:userkey="ff8080814906e07101491ec208670015"></ri:user></ac:link><br> | .Net Core | [https://git.rockfin.com/LiftOff/question-trails-content-api](https://git.rockfin.com/LiftOff/question-trails-content-api "https://git.rockfin.com/LiftOff/question-trails-content-api") | <br> |
+| 14 | EnrichmentEngine-Core - EventInflow | Team Hybrid<br> | <br> | <br><ac:link><ri:user ri:userkey="8a8903604cb05139014d31534c3202cf"></ri:user></ac:link><br> | .NET Core | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)EC.EventInflow<br> | <ac:link><ri:page ri:space-key="TH2Archive" ri:content-title="Event Inflow Service"></ri:page></ac:link><br> |
+| 15 | EnrichmentEngine-Core - StateManager | Team Hybrid<br> | <br> | <br><ac:link><ri:user ri:userkey="8a8903604cb05139014d31534c3202cf"></ri:user></ac:link><br> | .NET Core | [https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.](https://git.rockfin.com/LiftOff/LiftOffTests/tree/master/LiftOff.Tests.HIM.ContentAPI)EC.StateManager<br> | <ac:link><ri:page ri:space-key="TH2Archive" ri:content-title="Enrichment Core State Manager Endpoints"></ri:page></ac:link><br><br>16 tests are broken due to recent database changes<br> |
+
+
+

@@ -1,0 +1,130 @@
+
+<ac:link><ri:page ri:content-title="COPY / PASTE FROM PRIOR NOTES" ri:space-key="IC"></ri:page><ac:link-body><span style="color: rgb(255,0,0);">COPY / PASTE FROM PRIOR NOTES</span></ac:link-body></ac:link> / PLACEHOLDER
+
+
+
+- MAKE THEM WANT TO &gt; HOW &gt; WIIFM?
+
+- BAKE UT INTO REQUIREMENTS/ACCEPTANCE CRITERIA
+
+- SEE THE UT TASKS ON THE BOARD
+
+- CAUTION: UT NEEDS TO BE IN EVERY TASK
+
+- PART OF THE DEFINITION OF DONE
+
+- CODE REVIEW &gt; MUST HAVE UTS PRIOR TO CODE REVIEW / CHECK-IN
+
+- TASK SIZE CRITERIA &gt; ABOVE CRIT &gt; MUST BE REVIEWED BY X # OF ENG/ARCH
+
+- hands on workshops &gt; Teaching how to
+
+- build a roadmap to success (with UTs)
+
+- what is the "point"
+
+- what to test
+
+- how do i.... big systems, system interdependencies, de-coupling, what defines testable code
+
+
+
+Ping : Brian Friesen re: McDonalds example??
+
+
+
+- Real world example with complexity!!!!
+
+
+
+RAISING AWARENESS:
+
+- PROJECT CANDIDATE(S)
+
+
+
+*<u><strong>Helping our developers:</strong></u>*
+
+- COMFORTABLE WITH UT PROCESS
+
+- TECHNIQUES
+
+- INTRODUCE AS A TEAM-BY-TEAM PROCESS
+
+- BREED MORE EXPERTS
+
+
+
+INCENTIVIZE / GAMIFY IT
+
+% CC - IN PROJECT TEAM RELATION
+
+
+
+CODE REVIEW &gt; SHOW N' TELL &gt; REMOVE CODE SMELLS
+
+- NEED A DEFINED SET OF CR STANDARDS
+
+- SHOW ME IT WORKING
+
+- EXPLAIN WHAT IT DOES
+
+- SHOW ME THE UTs
+
+- PROPER ESTIMATATION OF TIME FOR UNIT TESTS
+
+- LEGACY APPS &gt; CLEAN UP &gt; NEED APPROACH
+
+
+
+STANDARDIZED FRAMEWORKS
+
+- TRAINING &gt; STEP-BY-STEP
+
+- NO STANDARDIZATION &gt; JUST USE 1
+
+
+
+ANY CHANGE &gt; UNIT TEST &gt; SELL IT TO BUSINESS
+
+
+
+BOY SCOUT &gt; FIX CURRENT NEEDS
+
+
+
+FIRST QUALITY GATE &gt; FIND EARLY &gt; CHEAPER
+
+
+
+
+
+*<u><strong>BARRIERS:</strong></u>*
+
+- TYPICALLY LEGACY APPS NEED REFACTORING &gt; NEEDS COMMITMENT / TIME / NEED
+
+
+
+
+
+*<u><strong>TECHNIQUES / TRAINING:</strong></u>*
+
+- SEAMS / INTERFACES
+
+- PIECEMEAL &gt; MANAGEABLE &gt; BREAK IT UP
+
+- STRIP OUT BUSINESS LOGIC IF APPLICABLE
+
+- ADD UNIT TESTING &gt; HOW TO IMPLEMENT AND TEST
+
+- WHAT IS THE "RIGHT WAY" TO UT
+
+- CANNOT WRITE A SIZABLE CHUNK OIF CODE WITHOUT A DESIGN REVIEW FIRST &gt; UTS MUST BE THOUGHT OF
+
+- HOW TO MAKE IT "REAL"
+
+- NEEDS FOR LEGACY CODE:
+
+- NEEDS FOR GREENFIELD CODE:
+
+-

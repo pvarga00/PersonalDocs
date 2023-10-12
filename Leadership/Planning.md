@@ -1,0 +1,3 @@
+# Planning : Extreme Ownership
+
+## 
